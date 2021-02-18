@@ -1,0 +1,6 @@
+topic_id,combined_top_words,accumulated_probability,doc_count,probability_per_doc,source,year
+0,kernel malware code behavior detect user malicious data detection network ,30.57808857038617,58,0.5272084236273478,Academic,2008
+1,attack security network approach protocol key signature scheme user model ,66.12662876956165,93,0.7110390190275446,Academic,2008
+2,data policy detection model system propose approach attack result information ,53.173047587275505,73,0.7283979121544589,Academic,2008
+3,attack application analysis security network vulnerability protocol user rfid system ,28.881852677091956,46,0.6278663625454773,Academic,2008
+4,security information application web user access control role technique provide ,42.05548915732652,65,0.6470075254973311,Academic,2008

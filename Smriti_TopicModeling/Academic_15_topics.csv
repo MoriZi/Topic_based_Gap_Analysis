@@ -1,0 +1,16 @@
+topic_id,combined_top_words,accumulated_probability,doc_count,probability_per_doc,source,year
+0,query dns privacy information clock data mechanism propose attack model ,13.460610002279282,16,0.8412881251424551,Academic,2008
+1,attack protocol response worm user signature password process present control ,8.869030714035034,9,0.9854478571150038,Academic,2008
+2,attack protocol application detection information network technique system distance communication ,21.250382348895073,27,0.7870511981072249,Academic,2008
+3,signature security malware behavior use disk profile sensor data provide ,18.67844033241272,25,0.7471376132965087,Academic,2008
+4,kernel code rootkits rootkit level information present program disclosure instruction ,15.368180006742477,19,0.8088515793022356,Academic,2008
+5,vulnerability web application network attack approach number information security model ,19.217080771923065,25,0.7686832308769226,Academic,2008
+6,device user party traffic site credential provide attribute rate privacy ,7.276923954486847,8,0.9096154943108559,Academic,2008
+7,attack kernel approach security memory network high program execution hook ,10.738872766494751,13,0.8260671358842117,Academic,2008
+8,protocol group bot format set user network specification input security ,7.079779431223869,8,0.8849724289029837,Academic,2008
+9,protocol network attack approach image model result security analysis use ,19.58862578868866,27,0.7255046588403208,Academic,2008
+10,policy security browser access system program design attack approach implement ,15.039049357175827,25,0.6015619742870331,Academic,2008
+11,user information network traffic application covert flow trust model channel ,11.963679634034634,14,0.8545485452881881,Academic,2008
+12,role permission hierarchy time user security identify propose large analysis ,6.347777456045151,7,0.906825350863593,Academic,2008
+13,security data key application scheme code control user analysis technique ,31.3250350356102,39,0.8032060265541077,Academic,2008
+14,attack model security access key system sensor user control data ,13.948691502213478,19,0.7341416580112357,Academic,2008

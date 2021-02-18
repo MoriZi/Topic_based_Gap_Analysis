@@ -1,0 +1,11 @@
+topic_id,combined_top_words,accumulated_probability,doc_count,probability_per_doc,source,year
+0,protocol party leak attack application result description number technique performance ,8.157802447676659,16,0.5098626529797912,Academic,2008
+1,attack vulnerability network behavior graph host result system sensor detection ,18.2390254214406,28,0.6513937650514501,Academic,2008
+2,web user site trust information cross application model role false ,12.531668856739998,23,0.5448551676843477,Academic,2008
+3,policy security program approach control access model authorization provide data ,31.503840647637844,45,0.7000853477252854,Academic,2008
+4,network attack scheme security signature propose traffic provide protocol anonymity ,25.88314300775528,33,0.7843376669016752,Academic,2008
+5,kernel malware security code application user detection malicious detect execution ,38.9620026871562,54,0.7215185682806704,Academic,2008
+6,approach server protocol user security client password attack key mechanism ,25.626229114830494,40,0.6406557278707623,Academic,2008
+7,attack flow data analysis network code model approach signature present ,26.16991863399744,40,0.654247965849936,Academic,2008
+8,dns query attack information role propose set privacy model time ,16.979804426431656,26,0.6530694010166022,Academic,2008
+9,browser security protocol approach design secure scheme model web key ,16.29750869423151,24,0.6790628622596463,Academic,2008

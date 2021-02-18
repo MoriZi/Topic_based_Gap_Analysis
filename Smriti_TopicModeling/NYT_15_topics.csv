@@ -1,0 +1,16 @@
+topic_id,combined_top_words,accumulated_probability,doc_count,probability_per_doc,source,year
+0,program microsoft computer software malware user window antivirus infection gang ,3.558565229177475,7,0.5083664613110679,NYT,2008
+1,attack game software user researcher government number message russian large ,15.358702480793,21,0.7313667847996667,NYT,2008
+2,city list jack airline department truck meter airport name mauro ,1.9893448948860168,2,0.9946724474430084,NYT,2008
+3,ad consumer comscore user search yahoo executive medium collect collection ,0.9250603914260864,1,0.9250603914260864,NYT,2008
+4,card credit gonzalez write number ford official secret debit program ,5.073077529668808,6,0.845512921611468,NYT,2008
+5,child number united justice offer law flaw court federal card ,9.307104480452836,14,0.6647931771752026,NYT,2008
+6,mail sidell message personal privacy read child employee employer account ,1.9949801564216614,2,0.9974900782108307,NYT,2008
+7,osd movie dvd device copy video technology open product industry ,2.848948985338211,4,0.7122372463345528,NYT,2008
+8,google privacy user facebook law search consumer ad page video ,8.574557282030582,13,0.6595813293869679,NYT,2008
+9,griffith credit school later hofstadter know club box lawyer wikiscanner ,2.4343459010124207,3,0.8114486336708069,NYT,2008
+10,al qaeda youtube attack ayatollah video user medium iraq health ,4.995813883841038,6,0.8326356473068396,NYT,2008
+11,government ebay agency com national password country lead openid user ,9.67183981090784,15,0.6447893207271894,NYT,2008
+12,mail account device user implant mac log card software technology ,5.217087984085083,6,0.8695146640141805,NYT,2008
+13,army fraud study rand iraq card report lifelock credit alert ,2.770803391933441,3,0.9236011306444804,NYT,2008
+14,liechtenstein myspace m tax megan case german drew germany charge ,4.9823998510837555,8,0.6227999813854694,NYT,2008
