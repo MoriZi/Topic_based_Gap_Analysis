@@ -8,4 +8,4 @@ To gain an understanding of the difference in trending topics related to Anxiety
 ## Folders in the Main branch:
 1. Gap Analysis: This folder contains the data and the source code from Morteza's paper on Gap Analysis in CyberSecurity
 2. CyS_GA.pdf: This is the paper mentioned in (1)
-3. Anxiety: This folder contains all the relevant resources for the ongoing project.
+3. Anxiety: This folder contains (will contain) all the relevant resources for the ongoing project.
