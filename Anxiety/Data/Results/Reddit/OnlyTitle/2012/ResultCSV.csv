@@ -1,0 +1,4 @@
+coherence,num_topics,perplexity,source,year,dict_size_orig,dict_size_filtering_out_lest_freq_word,dict_size_filtering_out_most_freq_word
+-1.8115309664920456,5,-1.5993120662456328,Data,CSV,2,2,2
+-1.6969182500644835,10,-2.2516465702458346,Data,CSV,2,2,2
+-1.8879394441104205,15,-2.574431937484221,Data,CSV,2,2,2
