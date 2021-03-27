@@ -1,4 +1,4 @@
-from config import *
+#from config import *
 import argparse
 import glob
 import pandas as pd
@@ -9,7 +9,7 @@ from collections import defaultdict
 import itertools
 import numpy as np
 import os
-import seaborn as sns
+#import seaborn as sns
 import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 import string
