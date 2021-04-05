@@ -1,0 +1,806 @@
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['ahead', 'hardest', 'butt', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hormone']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5784)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['kind', 'big', 'hit', 'tired', 'wake', 'awesome', 'tonight', 'screw', 'working', 'floor']
+Topic ID of query: 3
+
+most similar topic in corpus (Academic 2014):
+['impairment', 'life', 'quality', 'domain', 'environmental', 'physical', 'instrumental', 'modification', 'adult', 'activity'] (Score: 0.6503)
+Topic ID of most similar topic in corpus: 39
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['testing', 'genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest']
+Topic ID of query: 4
+
+most similar topic in corpus (Academic 2014):
+['symptom', 'sample', 'clinical', 'dimension', 'indicate', 'criterion', 'analysis', 'recommend', 'various', 'conduct'] (Score: 0.5617)
+Topic ID of most similar topic in corpus: 15
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['little', 'do', 'feeling', 'level', 'state', 'set', 'entire', 'negative', 'fast', 'suggestion']
+Topic ID of query: 5
+
+most similar topic in corpus (Academic 2014):
+['attention', 'task', 'mindfulness', 'focus', 'active', 'sustain', 'compulsion', 'center', 'att', 'cope'] (Score: 0.6338)
+Topic ID of most similar topic in corpus: 32
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['laugh', 'shirt', 'stigmata', 'summary', 'select', 'hardest', 'dominance', 'upside', 'butt', 'thriller']
+Topic ID of query: 6
+
+most similar topic in corpus (Academic 2014):
+['profile', 'subject', 'combination', 'suffer', 'effect', 'animal', 'neuroimage', 'previously', 'drug', 'investigation'] (Score: 0.5037)
+Topic ID of most similar topic in corpus: 4
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['people', 'help', 'make', 'life', 'would', 'want', 'find', 'try', 'thing', 'really']
+Topic ID of query: 7
+
+most similar topic in corpus (Academic 2014):
+['parent', 'treatment', 'improve', 'social', 'intervention', 'anxiety', 'cognitive', 'effective', 'disorder', 'rate'] (Score: 0.6496)
+Topic ID of most similar topic in corpus: 24
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['example', 'quite', 'bus', 'asshole', 'bit', 'least', 'less', 'instead', 'situation', 'often']
+Topic ID of query: 8
+
+most similar topic in corpus (Academic 2014):
+['individual', 'pattern', 'client', 'ptsd', 'event', 'present', 'trauma', 'trajectory', 'service', 'traumatic'] (Score: 0.5740)
+Topic ID of most similar topic in corpus: 7
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['whenever', 'word', 'negative', 'quickly', 'man', 'period', 'cognitive', 'rid', 'improvement', 'barely']
+Topic ID of query: 9
+
+most similar topic in corpus (Academic 2014):
+['depression', 'month', 'change', 'anxiety', 'measure', 'follow', 'compare', 'improve', 'also', 'month_follow'] (Score: 0.6115)
+Topic ID of most similar topic in corpus: 27
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['class', 'symptom', 'room', 'girl', 'kill', 'forget', 'serious', 'visit', 'cold', 'space']
+Topic ID of query: 10
+
+most similar topic in corpus (Academic 2014):
+['substance', 'mental', 'symptomatology', 'secondary', 'combine', 'health', 'account', 'attribute', 'expert', 'universal'] (Score: 0.6669)
+Topic ID of most similar topic in corpus: 25
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['phone', 'pm', 'alarm', 'set', 'upside', 'summary', 'select', 'thriller', 'hormone', 'dominance']
+Topic ID of query: 12
+
+most similar topic in corpus (Academic 2014):
+['worry', 'deliver', 'telephone', 'clinician', 'old', 'nst', 'cbt', 'anxiety', 'therapy', 'examine'] (Score: 0.6516)
+Topic ID of most similar topic in corpus: 45
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['funny', 'article', 'regard', 'smart', 'hopeful', 'survive', 'suffering', 'condescending', 'testosterone', 'dominance']
+Topic ID of query: 13
+
+most similar topic in corpus (Academic 2014):
+['depressive', 'anxious', 'non', 'mdd', 'major', 'mother', 'depressed', 'estimate', 'course', 'depress'] (Score: 0.5250)
+Topic ID of most similar topic in corpus: 52
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['create', 'link', 'research', 'information', 'survey', 'effort', 'intense', 'community', 'greatly', 'process']
+Topic ID of query: 14
+
+most similar topic in corpus (Academic 2014):
+['interaction', 'student', 'range', 'extend', 'publish', 'randomised_controlled', 'little', 'acceptable', 'highly', 'favour'] (Score: 0.6006)
+Topic ID of most similar topic in corpus: 37
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['anxiety', 'feel', 'get', 'go', 'have', 'time', 'year', 'day', 'take', 'start']
+Topic ID of query: 15
+
+most similar topic in corpus (Academic 2014):
+['depression', 'month', 'change', 'anxiety', 'measure', 'follow', 'compare', 'improve', 'also', 'month_follow'] (Score: 0.7589)
+Topic ID of most similar topic in corpus: 27
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['far', 'common', 'mine', 'overwhelming', 'concern', 'mindfulness', 'usual', 'mindful', 'activity', 'driving']
+Topic ID of query: 16
+
+most similar topic in corpus (Academic 2014):
+['attention', 'task', 'mindfulness', 'focus', 'active', 'sustain', 'compulsion', 'center', 'att', 'cope'] (Score: 0.6572)
+Topic ID of most similar topic in corpus: 32
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['send', 'generalize', 'meal', 'stigmata', 'upside', 'select', 'hardest', 'summary', 'dominance', 'thriller']
+Topic ID of query: 18
+
+most similar topic in corpus (Academic 2014):
+['onset', 'administer', 'analysis', 'number', 'result', 'relate', 'associate', 'symptom', 'disorder', 'multiple'] (Score: 0.5936)
+Topic ID of most similar topic in corpus: 51
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['insurance', 'victory', 'cover', 'private', 'originally', 'best', 'file', 'stigmata', 'hardest', 'select']
+Topic ID of query: 19
+
+most similar topic in corpus (Academic 2014):
+['vulnerable', 'induce', 'resilience', 'side_effect', 'gene', 'severely', 'blood', 'adaptation', 'clozapine', 'protection'] (Score: 0.6301)
+Topic ID of most similar topic in corpus: 10
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['form', 'agree', 'potential', 'system', 'generally', 'chronic', 'circle', 'former', 'online', 'brutal']
+Topic ID of query: 20
+
+most similar topic in corpus (Academic 2014):
+['interaction', 'student', 'range', 'extend', 'publish', 'randomised_controlled', 'little', 'acceptable', 'highly', 'favour'] (Score: 0.5762)
+Topic ID of most similar topic in corpus: 37
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['nee', 'food', 'describe', 'safe', 'awful', 'mouth', 'pack', 'welcome', 'storm', 'build']
+Topic ID of query: 21
+
+most similar topic in corpus (Academic 2014):
+['worry', 'deliver', 'telephone', 'clinician', 'old', 'nst', 'cbt', 'anxiety', 'therapy', 'examine'] (Score: 0.6104)
+Topic ID of most similar topic in corpus: 45
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['message', 'waste', 'late', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest']
+Topic ID of query: 23
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.6282)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['post', 'depression', 'realize', 'therapist', 'learn', 'recently', 'other', 'relate', 'little', 'subreddit']
+Topic ID of query: 24
+
+most similar topic in corpus (Academic 2014):
+['depression', 'month', 'change', 'anxiety', 'measure', 'follow', 'compare', 'improve', 'also', 'month_follow'] (Score: 0.7265)
+Topic ID of most similar topic in corpus: 27
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['job', 'work', 'money', 'courage', 'country', 'application', 'full', 'hire', 'place', 'submit']
+Topic ID of query: 25
+
+most similar topic in corpus (Academic 2014):
+['impairment', 'life', 'quality', 'domain', 'environmental', 'physical', 'instrumental', 'modification', 'adult', 'activity'] (Score: 0.6184)
+Topic ID of most similar topic in corpus: 39
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['sound', 'drink', 'grow', 'complete', 'alcohol', 'freak', 'minute', 'town', 'expensive', 'business']
+Topic ID of query: 28
+
+most similar topic in corpus (Academic 2014):
+['impairment', 'life', 'quality', 'domain', 'environmental', 'physical', 'instrumental', 'modification', 'adult', 'activity'] (Score: 0.5648)
+Topic ID of most similar topic in corpus: 39
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['white', 'butt', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 29
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5979)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['worry', 'here', 'repeat', 'member', 'rather', 'happen', 'recent', 'brief', 'embarrassment', 'comedy']
+Topic ID of query: 30
+
+most similar topic in corpus (Academic 2014):
+['worry', 'deliver', 'telephone', 'clinician', 'old', 'nst', 'cbt', 'anxiety', 'therapy', 'examine'] (Score: 0.7202)
+Topic ID of most similar topic in corpus: 45
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['uncertainty', 'genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest']
+Topic ID of query: 31
+
+most similar topic in corpus (Academic 2014):
+['disorder', 'anxiety', 'admixture', 'characteristic', 'obtain', 'cut', 'specific', 'generalize', 'study', 'use'] (Score: 0.5032)
+Topic ID of most similar topic in corpus: 28
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['healthy', 'perspective', 'issue', 'ball', 'meditate', 'guilt', 'carry', 'teenager', 'clear', 'unhappy']
+Topic ID of query: 32
+
+most similar topic in corpus (Academic 2014):
+['worry', 'deliver', 'telephone', 'clinician', 'old', 'nst', 'cbt', 'anxiety', 'therapy', 'examine'] (Score: 0.6266)
+Topic ID of most similar topic in corpus: 45
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['judge', 'massive', 'red', 'sum', 'sweating', 'pic', 'sometimes', 'help', 'panic_attack', 'feel']
+Topic ID of query: 33
+
+most similar topic in corpus (Academic 2014):
+['mental', 'disorder', 'health', 'self', 'symptom', 'efficacy', 'factor', 'depression', 'effect', 'mhse'] (Score: 0.6295)
+Topic ID of most similar topic in corpus: 54
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['run', 'medicine', 'several', 'tree', 'chair', 'dominance', 'summary', 'select', 'thriller', 'genre']
+Topic ID of query: 34
+
+most similar topic in corpus (Academic 2014):
+['profile', 'subject', 'combination', 'suffer', 'effect', 'animal', 'neuroimage', 'previously', 'drug', 'investigation'] (Score: 0.5511)
+Topic ID of most similar topic in corpus: 4
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['proud', 'coffee', 'shop', 'mild', 'guy', 'wallet', 'may', 'straight', 'summary', 'dominance']
+Topic ID of query: 35
+
+most similar topic in corpus (Academic 2014):
+['dimension', 'value', 'individual', 'examine', 'utility', 'clinical', 'perfectionism', 'predict', 'sample', 'depression'] (Score: 0.5709)
+Topic ID of most similar topic in corpus: 41
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['weekend', 'final', 'customer', 'cashier', 'double', 'intimidate', 'child', 'genre', 'missing', 'butt']
+Topic ID of query: 36
+
+most similar topic in corpus (Academic 2014):
+['child', 'parent', 'family', 'maintain', 'program', 'diagnosis', 'childhood', 'year', 'improvement', 'significant'] (Score: 0.6047)
+Topic ID of most similar topic in corpus: 29
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['fear', 'severe', 'date', 'simple', 'leg', 'quit', 'grade', 'smoke', 'sufferer', 'failure']
+Topic ID of query: 37
+
+most similar topic in corpus (Academic 2014):
+['fear', 'disorder', 'associate', 'youth', 'anxiety', 'survey', 'extinction', 'non', 'study', 'include'] (Score: 0.7004)
+Topic ID of most similar topic in corpus: 5
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['will', 'relationship', 'guess', 'break', 'friend', 'constant', 'boyfriend', 'kind', 'thinking', 'together']
+Topic ID of query: 38
+
+most similar topic in corpus (Academic 2014):
+['social', 'change', 'sad', 'decrease', 'negative', 'anxiety', 'predict', 'emotion', 'increase', 'cbt'] (Score: 0.5997)
+Topic ID of most similar topic in corpus: 44
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['dread', 'holiday', 'season', 'stigmata', 'missing', 'select', 'summary', 'thriller', 'butt', 'upside']
+Topic ID of query: 39
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5580)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['gym', 'easy', 'hardest', 'butt', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing']
+Topic ID of query: 41
+
+most similar topic in corpus (Academic 2014):
+['difficult', 'last', 'stress', 'bias', 'panic', 'threat', 'processing', 'region', 'activation', 'brain'] (Score: 0.5382)
+Topic ID of most similar topic in corpus: 49
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['dad', 'glad', 'shock', 'straight', 'second', 'choose', 'background', 'center', 'truck', 'minor']
+Topic ID of query: 42
+
+most similar topic in corpus (Academic 2014):
+['impairment', 'life', 'quality', 'domain', 'environmental', 'physical', 'instrumental', 'modification', 'adult', 'activity'] (Score: 0.5880)
+Topic ID of most similar topic in corpus: 39
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['topic', 'finally', 'med', 'speak', 'get', 'stigmata', 'thriller', 'summary', 'upside', 'hardest']
+Topic ID of query: 43
+
+most similar topic in corpus (Academic 2014):
+['profile', 'subject', 'combination', 'suffer', 'effect', 'animal', 'neuroimage', 'previously', 'drug', 'investigation'] (Score: 0.5373)
+Topic ID of most similar topic in corpus: 4
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['like', 'butt', 'agent', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'genre']
+Topic ID of query: 47
+
+most similar topic in corpus (Academic 2014):
+['profile', 'subject', 'combination', 'suffer', 'effect', 'animal', 'neuroimage', 'previously', 'drug', 'investigation'] (Score: 0.5547)
+Topic ID of most similar topic in corpus: 4
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['body', 'weight', 'disorder', 'add', 'general', 'top', 'blanket', 'pressure', 'recommend', 'cell']
+Topic ID of query: 49
+
+most similar topic in corpus (Academic 2014):
+['mental', 'disorder', 'health', 'self', 'symptom', 'efficacy', 'factor', 'depression', 'effect', 'mhse'] (Score: 0.7150)
+Topic ID of most similar topic in corpus: 54
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['would', 'could', 'hour', 'therapy', 'issue', 'next', 'cry', 'ask', 'avoid', 'night']
+Topic ID of query: 50
+
+most similar topic in corpus (Academic 2014):
+['worry', 'deliver', 'telephone', 'clinician', 'old', 'nst', 'cbt', 'anxiety', 'therapy', 'examine'] (Score: 0.6737)
+Topic ID of most similar topic in corpus: 45
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['scared', 'motivation', 'lack', 'dominance', 'pose', 'upside', 'summary', 'hormone', 'testosterone', 'select']
+Topic ID of query: 51
+
+most similar topic in corpus (Academic 2014):
+['attention', 'task', 'mindfulness', 'focus', 'active', 'sustain', 'compulsion', 'center', 'att', 'cope'] (Score: 0.6407)
+Topic ID of most similar topic in corpus: 32
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['drive', 'buy', 'specifically', 'skip', 'woman', 'instructor', 'shopping', 'place', 'advice', 'hormone']
+Topic ID of query: 52
+
+most similar topic in corpus (Academic 2014):
+['worry', 'deliver', 'telephone', 'clinician', 'old', 'nst', 'cbt', 'anxiety', 'therapy', 'examine'] (Score: 0.5829)
+Topic ID of most similar topic in corpus: 45
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['thank', 'love', 'away', 'disorder', 'see', 'amazing', 'especially', 'world', 'result', 'past']
+Topic ID of query: 53
+
+most similar topic in corpus (Academic 2014):
+['attention', 'task', 'mindfulness', 'focus', 'active', 'sustain', 'compulsion', 'center', 'att', 'cope'] (Score: 0.6381)
+Topic ID of most similar topic in corpus: 32
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['present', 'admit', 'summary', 'select', 'stigmata', 'upside', 'thriller', 'dominance', 'hardest', 'hormone']
+Topic ID of query: 54
+
+most similar topic in corpus (Academic 2014):
+['initial', 'outcome', 'involvement', 'measurement', 'relation', 'alliance', 'examine', 'divide', 'time', 'therapist'] (Score: 0.5972)
+Topic ID of most similar topic in corpus: 48
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['show', 'focus', 'notice', 'com', 'trouble', 'rather', 'fine', 'watch', 'perfect', 'mood']
+Topic ID of query: 55
+
+most similar topic in corpus (Academic 2014):
+['attention', 'task', 'mindfulness', 'focus', 'active', 'sustain', 'compulsion', 'center', 'att', 'cope'] (Score: 0.5708)
+Topic ID of most similar topic in corpus: 32
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['rant', 'overcome', 'lately', 'draw', 'sad', 'silly', 'paxil', 'social', 'comic_strip', 'officially']
+Topic ID of query: 56
+
+most similar topic in corpus (Academic 2014):
+['initial', 'outcome', 'involvement', 'measurement', 'relation', 'alliance', 'examine', 'divide', 'time', 'therapist'] (Score: 0.5718)
+Topic ID of most similar topic in corpus: 48
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['be', 'go', 'think', 'say', 'tell', 'feel', 's', 'happen', 'even', 'know']
+Topic ID of query: 57
+
+most similar topic in corpus (Academic 2014):
+['attention', 'task', 'mindfulness', 'focus', 'active', 'sustain', 'compulsion', 'center', 'att', 'cope'] (Score: 0.6339)
+Topic ID of most similar topic in corpus: 32
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['feeling', 'school', 'second', 'fine', 'cope', 'horrible', 'grab', 'jump', 'disease', 'cancer']
+Topic ID of query: 59
+
+most similar topic in corpus (Academic 2014):
+['mental', 'disorder', 'health', 'self', 'symptom', 'efficacy', 'factor', 'depression', 'effect', 'mhse'] (Score: 0.5427)
+Topic ID of most similar topic in corpus: 54
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['part', 'emotion', 'meditation', 'cut', 'exercise', 'increase', 'technique', 'http_www', 'longer', 'breath']
+Topic ID of query: 60
+
+most similar topic in corpus (Academic 2014):
+['initial', 'outcome', 'involvement', 'measurement', 'relation', 'alliance', 'examine', 'divide', 'time', 'therapist'] (Score: 0.7036)
+Topic ID of most similar topic in corpus: 48
+Querying Reddit 2013 topics:
+
+
+
+======================
+
+
+Query: ['genre', 'flare', 'upside', 'thriller', 'summary', 'stigmata', 'select', 'missing', 'hardest', 'hormone']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['marker', 'single', 'mental', 'health', 'estimate', 'population', 'burden', 'high', 'report', 'poor'] (Score: 0.5354)
+Topic ID of most similar topic in corpus: 2

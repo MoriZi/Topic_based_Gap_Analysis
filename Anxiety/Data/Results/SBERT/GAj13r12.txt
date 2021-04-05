@@ -1,0 +1,130 @@
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['round', 'willing', 'connect', 'please', 'regard', 'lurk', 'solid', 'negatively', 'fearful', 'tourist']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2013):
+['attention', 'activation', 'image', 'face', 'hcs', 'negative', 'brain', 'pattern', 'cue', 'compare'] (Score: 0.5866)
+Topic ID of most similar topic in corpus: 27
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['acceptance', 'cognitive_behavioral', 'key', 'forum', 'gut', 'recovery', 'mindfulness', 'relation', 'claim', 'available']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['social', 'internalize', 'anxiety', 'subject', 'skill', 'impairment', 'independent', 'symptom', 'interaction', 'co'] (Score: 0.6609)
+Topic ID of most similar topic in corpus: 1
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['anxiety', 'feel', 'go', 'be', 'get', 'have', 'help', 'really', 'start', 'would']
+Topic ID of query: 2
+
+most similar topic in corpus (Academic 2013):
+['anxiety', 'associate', 'self', 'risk', 'high', 'low', 'smoking', 'seek', 'adolescent', 'level'] (Score: 0.8295)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['drive', 'cop', 'mile', 'gas', 'driving', 'unstable', 'crappy', 'highway', 'nicely', 'abandon']
+Topic ID of query: 3
+
+most similar topic in corpus (Academic 2013):
+['abuse', 'must', 'sexual', 'human', 'return', 'traffic', 'survivor', 'increased', 'woman', 'post'] (Score: 0.5342)
+Topic ID of most similar topic in corpus: 25
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['be', 'people', 'want', 'know', 'think', 'say', 'friend', 'go', 'even', 'talk']
+Topic ID of query: 4
+
+most similar topic in corpus (Academic 2013):
+['attention', 'activation', 'image', 'face', 'hcs', 'negative', 'brain', 'pattern', 'cue', 'compare'] (Score: 0.6151)
+Topic ID of most similar topic in corpus: 27
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['relax', 'silly', 'large', 'male', 'psychologist', 'rush', 'flight', 'routine', 'touch', 'adult']
+Topic ID of query: 5
+
+most similar topic in corpus (Academic 2013):
+['assist', 'utility', 'patient', 'anxiety', 'care', 'phq', 'intervention', 'primary', 'high', 'risk'] (Score: 0.6846)
+Topic ID of most similar topic in corpus: 40
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['breath', 'breathe', 'breathing', 'absolutely', 'around', 'leg', 'exist', 'sensation', 'major', 'middle']
+Topic ID of query: 6
+
+most similar topic in corpus (Academic 2013):
+['mindfulness', 'symptom', 'current', 'associate', 'collect', 'examine', 'approach', 'anxiety', 'disorder', 'may'] (Score: 0.6455)
+Topic ID of most similar topic in corpus: 39
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['create', 'goal', 'amount', 'coffee', 'quit', 'subreddit', 'comfortable', 'note', 'least', 'cbt']
+Topic ID of query: 7
+
+most similar topic in corpus (Academic 2013):
+['social', 'internalize', 'anxiety', 'subject', 'skill', 'impairment', 'independent', 'symptom', 'interaction', 'co'] (Score: 0.6365)
+Topic ID of most similar topic in corpus: 1
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['sound', 'roll', 'chat', 'window', 'interested', 'scream', 'coyote', 'anyone_else', 'friendly', 'primal']
+Topic ID of query: 8
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6367)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['visit', 'event', 'reward', 'roommate', 'coworker', 'luck', 'clear', 'cold', 'baby', 'piss']
+Topic ID of query: 9
+
+most similar topic in corpus (Academic 2013):
+['treatment', 'impact', 'legal', 'status', 'child', 'refugee', 'asylum_seeker', 'group', 'outcome', 'development'] (Score: 0.6264)
+Topic ID of most similar topic in corpus: 45

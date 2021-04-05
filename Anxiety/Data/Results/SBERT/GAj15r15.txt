@@ -1,0 +1,910 @@
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['play', 'online', 'game', 'name', 'email', 'daily', 'reply', 'later', 'sister', 'post']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2015):
+['internet', 'intervention', 'mediation', 'validate', 'support', 'anxiety', 'base', 'depression', 'detect', 'generalize'] (Score: 0.5850)
+Topic ID of most similar topic in corpus: 51
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['simple', 'glad', 'accept', 'reality', 'one', 'function', 'relieve', 'occur', 'involve', 'frustrated']
+Topic ID of query: 2
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6508)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['red', 'letter', 'mail', 'advice', 'may', 'disconnect', 'mentality', 'frighteningly', 'wherever', 'numerous']
+Topic ID of query: 3
+
+most similar topic in corpus (Academic 2015):
+['internet', 'intervention', 'mediation', 'validate', 'support', 'anxiety', 'base', 'depression', 'detect', 'generalize'] (Score: 0.6706)
+Topic ID of most similar topic in corpus: 51
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['effect', 'beat', 'option', 'frequently', 'list', 'prolong', 'physical', 'cheat', 'primitive', 'peeve']
+Topic ID of query: 4
+
+most similar topic in corpus (Academic 2015):
+['immediately', 'act', 'heart', 'wave', 'hold', 'mental', 'movement', 'perform', 'beneficial', 'pm'] (Score: 0.6524)
+Topic ID of most similar topic in corpus: 76
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['sleep', 'bed', 'night', 'noise', 'must', 'living', 'poop', 'hour', 'drink', 'soon']
+Topic ID of query: 5
+
+most similar topic in corpus (Academic 2015):
+['statistical', 'day', 'suicidal', 'patient', 'depression', 'anxiety', 'deanxit', 'report', 'treatment', 'manage'] (Score: 0.6919)
+Topic ID of most similar topic in corpus: 13
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['inspire', 'life', 'cheat', 'disconnect', 'wide', 'mentality', 'peeve', 'placeconstant', 'numerous', 'frighteningly']
+Topic ID of query: 6
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6580)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['community', 'plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever']
+Topic ID of query: 7
+
+most similar topic in corpus (Academic 2015):
+['intervention', 'base', 'depression', 'change', 'group', 'guide', 'participant', 'community', 'result', 'self'] (Score: 0.6469)
+Topic ID of most similar topic in corpus: 35
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['ruin', 'wide', 'plummet', 'peeve', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'somethingive']
+Topic ID of query: 8
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6660)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['comment', 'rule', 'send', 'reminder', 'mentality', 'cheat', 'primitive', 'numerous', 'peeve', 'disconnect']
+Topic ID of query: 9
+
+most similar topic in corpus (Academic 2015):
+['state', 'induce', 'motivational', 'regulatory', 'dysfunctional', 'complementary', 'goal', 'system', 'fit', 'focus'] (Score: 0.6638)
+Topic ID of most similar topic in corpus: 30
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['walk', 'study', 'horrible', 'lay', 'obsessive', 'holiday', 'article', 'breathe', 'socially', 'months_ago']
+Topic ID of query: 10
+
+most similar topic in corpus (Academic 2015):
+['patient', 'anxiety', 'follow', 'care', 'study', 'small', 'give', 'prospective', 'determine', 'depression'] (Score: 0.6458)
+Topic ID of most similar topic in corpus: 9
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['sorry', 'anyone_else', 'rant', 'tear', 'awesome', 'joke', 'terrify', 'potential', 'balance', 'bottle']
+Topic ID of query: 11
+
+most similar topic in corpus (Academic 2015):
+['genetic', 'additional', 'event', 'moreover', 'also', 'cognition', 'experience', 'future', 'unique', 'positive'] (Score: 0.5743)
+Topic ID of most similar topic in corpus: 43
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['med', 'side', 'health', 'serious', 'seriously', 'counselor', 'ask', 'annoy', 'okay', 'possibly']
+Topic ID of query: 12
+
+most similar topic in corpus (Academic 2015):
+['symptom', 'self', 'panic', 'patient', 'clinical', 'sample', 'disorder', 'prior', 'examine', 'find'] (Score: 0.6517)
+Topic ID of most similar topic in corpus: 42
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['disorder', 'depression', 'write', 'definitely', 'book', 'hand', 'create', 'panic', 'constantly', 'suffer']
+Topic ID of query: 13
+
+most similar topic in corpus (Academic 2015):
+['disorder', 'eat', 'treatment', 'evidence', 'clinical', 'therapy', 'cbt', 'patient', 'setting', 'routine'] (Score: 0.6984)
+Topic ID of most similar topic in corpus: 49
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['movie', 'battle', 'scene', 'esteem', 'quote', 'disconnect', 'primitive', 'cheat', 'peeve', 'numerous']
+Topic ID of query: 14
+
+most similar topic in corpus (Academic 2015):
+['emotion', 'mind', 'situation', 'training', 'people', 'anxiety', 'demonstrate', 'id', 'participant', 'significant'] (Score: 0.5615)
+Topic ID of most similar topic in corpus: 77
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['call', 'away', 'phone', 'question', 'put', 'office', 'answer', 'visit', 'especially', 'sort']
+Topic ID of query: 16
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6110)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['therapist', 'hospital', 'suddenly', 'pretty', 'insurance', 'mentally', 'extreme', 'nearly', 'stranger', 'generally']
+Topic ID of query: 17
+
+most similar topic in corpus (Academic 2015):
+['hypothesise', 'treatment', 'outcome', 'patient', 'iapt', 'additional', 'personality', 'depression', 'anxiety', 'intervention'] (Score: 0.6990)
+Topic ID of most similar topic in corpus: 66
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['need', 'plan', 'message', 'scream', 'condition', 'response', 'treatment', 'middle', 'seek', 'voice']
+Topic ID of query: 19
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.7020)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['severe', 'music', 'certain', 'stick', 'listen', 'natural', 'surprise', 'desire', 'there', 'feature']
+Topic ID of query: 20
+
+most similar topic in corpus (Academic 2015):
+['fear', 'startle', 'distress', 'response', 'positive', 'relate', 'affect', 'negative', 'stimulus', 'image'] (Score: 0.6254)
+Topic ID of most similar topic in corpus: 36
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['lately', 'whenever', 'totally', 'existence', 'quality', 'sound', 'humor', 'jealous', 'opinion', 'cute']
+Topic ID of query: 21
+
+most similar topic in corpus (Academic 2015):
+['network', 'hypothesize', 'executive', 'factor', 'emerge', 'immune', 'remission', 'methamphetamine', 'affect', 'dependence'] (Score: 0.5578)
+Topic ID of most similar topic in corpus: 61
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['house', 'leave', 'home', 'room', 'store', 'light', 'throat', 'gag', 'pounding', 'leg']
+Topic ID of query: 22
+
+most similar topic in corpus (Academic 2015):
+['patient', 'scale', 'depression', 'use', 'item', 'utility', 'clinical', 'caregiver', 'score', 'disorder'] (Score: 0.5944)
+Topic ID of most similar topic in corpus: 14
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['schedule', 'routine', 'wide', 'plummet', 'peeve', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality']
+Topic ID of query: 23
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6862)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['hate', 'amazing', 'stupid', 'kill', 'edit', 'thank', 'rid', 'angry', 'drunk', 'experience']
+Topic ID of query: 24
+
+most similar topic in corpus (Academic 2015):
+['training', 'bias', 'anxious', 'train', 'child', 'neutral', 'threat', 'interpretation', 'positive', 'clinically'] (Score: 0.5914)
+Topic ID of most similar topic in corpus: 48
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['com', 'proud', 'draw', 'sit', 'best', 'cheat', 'mentality', 'disconnect', 'peeve', 'frighteningly']
+Topic ID of query: 25
+
+most similar topic in corpus (Academic 2015):
+['avoidance', 'anxious', 'reward', 'avoidant', 'vigilance', 'task', 'threat', 'elevate', 'angry', 'compare'] (Score: 0.5599)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['outside', 'website', 'link', 'success', 'palpitation', 'victory', 'avoid', 'medicine', 'lexapro', 'virtual']
+Topic ID of query: 27
+
+most similar topic in corpus (Academic 2015):
+['internet', 'intervention', 'mediation', 'validate', 'support', 'anxiety', 'base', 'depression', 'detect', 'generalize'] (Score: 0.6529)
+Topic ID of most similar topic in corpus: 51
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['medication', 'tomorrow', 'note', 'important', 'comfortable', 'literally', 'anti', 'doctor', 'miss', 'cbt']
+Topic ID of query: 28
+
+most similar topic in corpus (Academic 2015):
+['health', 'stroke', 'sleep', 'caregiver', 'important', 'match', 'quality', 'compare', 'agree', 'provide'] (Score: 0.7557)
+Topic ID of most similar topic in corpus: 75
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['drive', 'upset', 'car', 'task', 'away', 'urge', 'welcome', 'driving', 'screw', 'technically']
+Topic ID of query: 29
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6613)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['wish', 'opposite', 'else', 'point', 'person', 'cheat', 'mentality', 'disconnect', 'peeve', 'frighteningly']
+Topic ID of query: 30
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6527)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['small', 'social', 'put', 'drink', 'conversation', 'mostly', 'set', 'coffee', 'healthy', 'positive']
+Topic ID of query: 31
+
+most similar topic in corpus (Academic 2015):
+['high', 'function', 'low', 'predict', 'disorder', 'anxiety', 'alcohol', 'level', 'relationship', 'time'] (Score: 0.6259)
+Topic ID of most similar topic in corpus: 16
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['ill', 'mom', 'bother', 'support', 'sad', 'funny', 'vent', 'carry', 'suicide', 'stuck']
+Topic ID of query: 32
+
+most similar topic in corpus (Academic 2015):
+['mother', 'pregnancy', 'symptom', 'depression', 'high', 'associate', 'psychological', 'pregnant', 'first', 'woman'] (Score: 0.6689)
+Topic ID of most similar topic in corpus: 60
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['crazy', 'rest', 'song', 'focused', 'adventure', 'scatter', 'pop', 'anxious', 'example', 'force']
+Topic ID of query: 33
+
+most similar topic in corpus (Academic 2015):
+['dependence', 'remission', 'factor', 'immune', 'active', 'problem', 'depression', 'adult', 'objective', 'group'] (Score: 0.6529)
+Topic ID of most similar topic in corpus: 64
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['cope', 'terrifying', 'scare', 'disconnect', 'cheat', 'mentality', 'primitive', 'peeve', 'wherever', 'numerous']
+Topic ID of query: 35
+
+most similar topic in corpus (Academic 2015):
+['role', 'point', 'emerge', 'anxiety', 'model', 'vulnerability', 'individual', 'dysregulation', 'investigate', 'tendency'] (Score: 0.6223)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['prevent', 'plummet', 'placeconstant', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever']
+Topic ID of query: 36
+
+most similar topic in corpus (Academic 2015):
+['avoidance', 'anxious', 'reward', 'avoidant', 'vigilance', 'task', 'threat', 'elevate', 'angry', 'compare'] (Score: 0.7257)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['text', 'reading', 'generalize', 'worst', 'mentality', 'cheat', 'frighteningly', 'disconnect', 'numerous', 'wherever']
+Topic ID of query: 38
+
+most similar topic in corpus (Academic 2015):
+['internet', 'intervention', 'mediation', 'validate', 'support', 'anxiety', 'base', 'depression', 'detect', 'generalize'] (Score: 0.6164)
+Topic ID of most similar topic in corpus: 51
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['brain', 'subreddit', 'feel', 'fix', 'mistake', 'sick', 'ocd', 'away', 'guilty', 'constantly']
+Topic ID of query: 41
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6210)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['heart', 'breath', 'chest', 'deep', 'player', 'discomfort', 'take', 'anxiety', 'numerous', 'frighteningly']
+Topic ID of query: 42
+
+most similar topic in corpus (Academic 2015):
+['anxiety', 'response', 'function', 'high', 'contribute', 'stress', 'behavioral', 'avoidance', 'acute', 'organism'] (Score: 0.7012)
+Topic ID of most similar topic in corpus: 50
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['finally', 'incredibly', 'drug', 'help', 'apologize', 'service', 'health', 'complete', 'doctor', 'bed']
+Topic ID of query: 43
+
+most similar topic in corpus (Academic 2015):
+['hypothesise', 'treatment', 'outcome', 'patient', 'iapt', 'additional', 'personality', 'depression', 'anxiety', 'intervention'] (Score: 0.7247)
+Topic ID of most similar topic in corpus: 66
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['free', 'post', 'helpful', 'weekend', 'view', 'recommend', 'thread', 'form', 'apartment', 'ability']
+Topic ID of query: 44
+
+most similar topic in corpus (Academic 2015):
+['mood', 'week', 'prenatal', 'postpartum', 'empirical', 'word', 'questionnaire', 'gestation', 'proportion', 'screening'] (Score: 0.6042)
+Topic ID of most similar topic in corpus: 54
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['college', 'student', 'wide', 'mentality', 'cheat', 'plummet', 'numerous', 'frighteningly', 'damaging', 'disconnect']
+Topic ID of query: 45
+
+most similar topic in corpus (Academic 2015):
+['training', 'bias', 'anxious', 'train', 'child', 'neutral', 'threat', 'interpretation', 'positive', 'clinically'] (Score: 0.5789)
+Topic ID of most similar topic in corpus: 48
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['relate', 'learn', 'slowly', 'light', 'uncomfortable', 'place', 'train', 'mindfulness', 'blanket', 'strange']
+Topic ID of query: 46
+
+most similar topic in corpus (Academic 2015):
+['subjective', 'visual', 'skin', 'extinction_learning', 'away', 'geometric', 'attention', 'extinction', 'task', 'threat'] (Score: 0.6191)
+Topic ID of most similar topic in corpus: 74
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['tend', 'entirely', 'wherever', 'plummet', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide']
+Topic ID of query: 47
+
+most similar topic in corpus (Academic 2015):
+['internet', 'intervention', 'mediation', 'validate', 'support', 'anxiety', 'base', 'depression', 'detect', 'generalize'] (Score: 0.6186)
+Topic ID of most similar topic in corpus: 51
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['would', 'say', 'could', 'give', 'start', 'still', 'end', 'get', 'tell', 'happen']
+Topic ID of query: 49
+
+most similar topic in corpus (Academic 2015):
+['immediately', 'act', 'heart', 'wave', 'hold', 'mental', 'movement', 'perform', 'beneficial', 'pm'] (Score: 0.5787)
+Topic ID of most similar topic in corpus: 76
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['effort', 'decrease', 'news', 'read', 'negative', 'anxiety', 'disconnect', 'frighteningly', 'mentality', 'peeve']
+Topic ID of query: 51
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.7072)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['be', 'anxiety', 'feel', 'go', 'get', 'make', 'time', 'know', 'people', 'have']
+Topic ID of query: 52
+
+most similar topic in corpus (Academic 2015):
+['anxiety', 'response', 'function', 'high', 'contribute', 'stress', 'behavioral', 'avoidance', 'acute', 'organism'] (Score: 0.7901)
+Topic ID of most similar topic in corpus: 50
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['parent', 'plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever']
+Topic ID of query: 53
+
+most similar topic in corpus (Academic 2015):
+['attention', 'threat', 'child', 'task', 'css', 'response', 'unclear', 'orienting', 'therapie', 'condition'] (Score: 0.6660)
+Topic ID of most similar topic in corpus: 19
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['experience', 'appointment', 'type', 'class', 'semester', 'professional', 'memory', 'solution', 'hot', 'strength']
+Topic ID of query: 54
+
+most similar topic in corpus (Academic 2015):
+['emotion', 'mind', 'situation', 'training', 'people', 'anxiety', 'demonstrate', 'id', 'participant', 'significant'] (Score: 0.7123)
+Topic ID of most similar topic in corpus: 77
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['money', 'tip', 'reduce', 'yell', 'stomach', 'raise', 'teacher', 'butterfly', 'especially', 'mentality']
+Topic ID of query: 57
+
+most similar topic in corpus (Academic 2015):
+['economic', 'burden', 'face', 'therapy', 'calculate', 'intensive', 'prevalent', 'possibly', 'quality', 'power'] (Score: 0.6339)
+Topic ID of most similar topic in corpus: 72
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['job', 'interview', 'lack', 'badly', 'position', 'crippling', 'peeve', 'numerous', 'survival', 'somethingive']
+Topic ID of query: 58
+
+most similar topic in corpus (Academic 2015):
+['subjective', 'visual', 'skin', 'extinction_learning', 'away', 'geometric', 'attention', 'extinction', 'task', 'threat'] (Score: 0.6448)
+Topic ID of most similar topic in corpus: 74
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['sweat', 'psychologist', 'awake', 'shake', 'wake', 'bed', 'literally', 'due', 'neurologist', 'start']
+Topic ID of query: 59
+
+most similar topic in corpus (Academic 2015):
+['health', 'stroke', 'sleep', 'caregiver', 'important', 'match', 'quality', 'compare', 'agree', 'provide'] (Score: 0.7095)
+Topic ID of most similar topic in corpus: 75
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['body', 'blood', 'neck', 'somewhere', 'ready', 'walk', 'tense', 'mode', 'crash', 'nightmare']
+Topic ID of query: 61
+
+most similar topic in corpus (Academic 2015):
+['degree', 'day', 'control', 'anxiety', 'patient', 'task', 'somatic', 'may', 'military', 'third'] (Score: 0.6423)
+Topic ID of most similar topic in corpus: 78
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['shop', 'severely', 'tackle', 'buy', 'inside', 'numerous', 'disconnect', 'peeve', 'somethingive', 'primitive']
+Topic ID of query: 62
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.5470)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['live', 'can', 'sometimes', 'be', 'fucking', 'guess', 'anymore', 'die', 'life', 'girlfriend']
+Topic ID of query: 63
+
+most similar topic in corpus (Academic 2015):
+['genetic', 'additional', 'event', 'moreover', 'also', 'cognition', 'experience', 'future', 'unique', 'positive'] (Score: 0.6136)
+Topic ID of most similar topic in corpus: 43
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['close', 'dark', 'fully', 'common', 'lead', 'fog', 'destructive', 'wrap', 'rough', 'behavior']
+Topic ID of query: 65
+
+most similar topic in corpus (Academic 2015):
+['high', 'function', 'low', 'predict', 'disorder', 'anxiety', 'alcohol', 'level', 'relationship', 'time'] (Score: 0.6111)
+Topic ID of most similar topic in corpus: 16
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['symptom', 'suppose', 'respond', 'amount', 'speech', 'disease', 'embarrassed', 'presentation', 'terrified', 'project']
+Topic ID of query: 66
+
+most similar topic in corpus (Academic 2015):
+['symptom', 'self', 'panic', 'patient', 'clinical', 'sample', 'disorder', 'prior', 'examine', 'find'] (Score: 0.6971)
+Topic ID of most similar topic in corpus: 42
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['fuck', 'city', 'edge', 'useless', 'square', 'answer', 'cheat', 'mentality', 'wherever', 'disconnect']
+Topic ID of query: 67
+
+most similar topic in corpus (Academic 2015):
+['dimensional', 'dropout', 'contrast', 'predictor', 'subject', 'help', 'predict', 'internalize', 'aggression', 'self'] (Score: 0.5753)
+Topic ID of most similar topic in corpus: 70
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['plummet', 'damaging', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide', 'wherever', 'primitive']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6157)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2015 topics:
+
+
+
+======================
+
+
+Query: ['dumb', 'round', 'wherever', 'peeve', 'numerous', 'frighteningly', 'disconnect', 'cheat', 'mentality', 'wide']
+Topic ID of query: 69
+
+most similar topic in corpus (Academic 2015):
+['internet', 'intervention', 'mediation', 'validate', 'support', 'anxiety', 'base', 'depression', 'detect', 'generalize'] (Score: 0.6363)
+Topic ID of most similar topic in corpus: 51

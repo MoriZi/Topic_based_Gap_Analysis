@@ -1,0 +1,130 @@
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['round', 'willing', 'connect', 'please', 'regard', 'lurk', 'solid', 'negatively', 'fearful', 'tourist']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2015):
+['attention', 'threat', 'child', 'task', 'css', 'response', 'unclear', 'orienting', 'therapie', 'condition'] (Score: 0.5890)
+Topic ID of most similar topic in corpus: 19
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['acceptance', 'cognitive_behavioral', 'key', 'forum', 'gut', 'recovery', 'mindfulness', 'relation', 'claim', 'available']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2015):
+['personality', 'prospective', 'cocaine', 'predict', 'recovery', 'maladaptive', 'concentration', 'affect', 'catastrophic', 'prospectively'] (Score: 0.6132)
+Topic ID of most similar topic in corpus: 20
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['anxiety', 'feel', 'go', 'be', 'get', 'have', 'help', 'really', 'start', 'would']
+Topic ID of query: 2
+
+most similar topic in corpus (Academic 2015):
+['anxiety', 'response', 'function', 'high', 'contribute', 'stress', 'behavioral', 'avoidance', 'acute', 'organism'] (Score: 0.8329)
+Topic ID of most similar topic in corpus: 50
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['drive', 'cop', 'mile', 'gas', 'driving', 'unstable', 'crappy', 'highway', 'nicely', 'abandon']
+Topic ID of query: 3
+
+most similar topic in corpus (Academic 2015):
+['high', 'function', 'low', 'predict', 'disorder', 'anxiety', 'alcohol', 'level', 'relationship', 'time'] (Score: 0.5548)
+Topic ID of most similar topic in corpus: 16
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['be', 'people', 'want', 'know', 'think', 'say', 'friend', 'go', 'even', 'talk']
+Topic ID of query: 4
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6104)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['relax', 'silly', 'large', 'male', 'psychologist', 'rush', 'flight', 'routine', 'touch', 'adult']
+Topic ID of query: 5
+
+most similar topic in corpus (Academic 2015):
+['anxiety', 'response', 'function', 'high', 'contribute', 'stress', 'behavioral', 'avoidance', 'acute', 'organism'] (Score: 0.6928)
+Topic ID of most similar topic in corpus: 50
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['breath', 'breathe', 'breathing', 'absolutely', 'around', 'leg', 'exist', 'sensation', 'major', 'middle']
+Topic ID of query: 6
+
+most similar topic in corpus (Academic 2015):
+['economic', 'burden', 'face', 'therapy', 'calculate', 'intensive', 'prevalent', 'possibly', 'quality', 'power'] (Score: 0.6404)
+Topic ID of most similar topic in corpus: 72
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['create', 'goal', 'amount', 'coffee', 'quit', 'subreddit', 'comfortable', 'note', 'least', 'cbt']
+Topic ID of query: 7
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6038)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['sound', 'roll', 'chat', 'window', 'interested', 'scream', 'coyote', 'anyone_else', 'friendly', 'primal']
+Topic ID of query: 8
+
+most similar topic in corpus (Academic 2015):
+['emotional', 'task', 'person', 'modify', 'attentional', 'reactivity', 'potential', 'measure', 'need', 'participant'] (Score: 0.6013)
+Topic ID of most similar topic in corpus: 23
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['visit', 'event', 'reward', 'roommate', 'coworker', 'luck', 'clear', 'cold', 'baby', 'piss']
+Topic ID of query: 9
+
+most similar topic in corpus (Academic 2015):
+['child', 'parent', 'tool', 'diagnostic', 'cut', 'screening', 'score', 'pediatric', 'clinical', 'sensitivity'] (Score: 0.6159)
+Topic ID of most similar topic in corpus: 6

@@ -1,0 +1,780 @@
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['room', 'mother', 'treat', 'exactly', 'stranger', 'tl_dr', 'childhood', 'awake', 'rate', 'nightmare']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2013):
+['child', 'anxiety', 'treatment', 'parent', 'report', 'measure', 'pre', 'outcome', 'anxious', 'follow'] (Score: 0.6836)
+Topic ID of most similar topic in corpus: 34
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['depression', 'tonight', 'suffer', 'anxiety', 'different', 'strangeness', 'distorted', 'odd', 'scatter', 'dicke']
+Topic ID of query: 3
+
+most similar topic in corpus (Academic 2013):
+['depressive', 'system', 'major', 'depressed', 'concentration', 'medication', 'influence', 'recent', 'function', 'antidepressant'] (Score: 0.7542)
+Topic ID of most similar topic in corpus: 29
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['anxiety', 'remember', 'try', 'see', 'year', 'thing', 'look', 'deal', 'could', 'say']
+Topic ID of query: 4
+
+most similar topic in corpus (Academic 2013):
+['anxiety', 'associate', 'self', 'risk', 'high', 'low', 'smoking', 'seek', 'adolescent', 'level'] (Score: 0.7603)
+Topic ID of most similar topic in corpus: 2
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['anger', 'fully', 'regular', 'maintain', 'powerful', 'competition', 'suspect', 'previous', 'fear', 'scatter']
+Topic ID of query: 6
+
+most similar topic in corpus (Academic 2013):
+['sad', 'fear', 'task', 'participant', 'group', 'response', 'control', 'avoidance', 'finding', 'anxiety'] (Score: 0.6096)
+Topic ID of most similar topic in corpus: 33
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['feel', 'be', 'anxiety', 'really', 'make', 'want', 'know', 'have', 'thing', 'think']
+Topic ID of query: 7
+
+most similar topic in corpus (Academic 2013):
+['mindfulness', 'symptom', 'current', 'associate', 'collect', 'examine', 'approach', 'anxiety', 'disorder', 'may'] (Score: 0.7150)
+Topic ID of most similar topic in corpus: 39
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['tomorrow', 'teacher', 'appointment', 'cancel', 'session', 'piss', 'snap', 'conscious', 'finally', 'therapy']
+Topic ID of query: 8
+
+most similar topic in corpus (Academic 2013):
+['mindfulness', 'symptom', 'current', 'associate', 'collect', 'examine', 'approach', 'anxiety', 'disorder', 'may'] (Score: 0.7141)
+Topic ID of most similar topic in corpus: 39
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['reality', 'refuse', 'psych', 'drug', 'speak', 'cope', 's', 'odd', 'scatter', 'strangeness']
+Topic ID of query: 9
+
+most similar topic in corpus (Academic 2013):
+['self', 'action', 'harm', 'give', 'anxiety', 'oxytocin', 'mdd', 'treatment', 'exposure', 'suggest'] (Score: 0.6781)
+Topic ID of most similar topic in corpus: 50
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['pill', 'pay', 'should', 'shower', 'side_effect', 'stare', 'project', 'prescribe', 'plan', 'phone']
+Topic ID of query: 10
+
+most similar topic in corpus (Academic 2013):
+['cost', 'disorder', 'anxiety', 'jpy', 'significant', 'rate', 'treatment', 'high', 'burden', 'behavior'] (Score: 0.6058)
+Topic ID of most similar topic in corpus: 22
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['early', 'background', 'dark', 'medical', 'trap', 'friendly', 'hang', 'kill', 'parade', 'dicke']
+Topic ID of query: 12
+
+most similar topic in corpus (Academic 2013):
+['background', 'course', 'stressor', 'range', 'mild', 'class', 'symptom', 'use', 'user', 'obtain'] (Score: 0.6284)
+Topic ID of most similar topic in corpus: 53
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['play', 'group', 'technique', 'hopeless', 'approach', 'suggest', 'alcohol', 'daughter', 'base', 'writing']
+Topic ID of query: 14
+
+most similar topic in corpus (Academic 2013):
+['social', 'internalize', 'anxiety', 'subject', 'skill', 'impairment', 'independent', 'symptom', 'interaction', 'co'] (Score: 0.6654)
+Topic ID of most similar topic in corpus: 1
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['movie', 'watch', 'recommend', 'therapeutic', 'warped', 'convey', 'scatter', 'strangeness', 'distorted', 'battery']
+Topic ID of query: 15
+
+most similar topic in corpus (Academic 2013):
+['endure', 'investigation', 'pc', 'life', 'affective', 'birth', 'extent', 'anthropometric', 'additionally', 'influence'] (Score: 0.5474)
+Topic ID of most similar topic in corpus: 9
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['sleep', 'wake', 'night', 'realise', 'slightly', 'frustrate', 'annoying', 'evening', 'motivation', 'rapid']
+Topic ID of query: 17
+
+most similar topic in corpus (Academic 2013):
+['trend', 'hypnotic', 'treating', 'sleep', 'diary', 'daytime', 'med', 'elevate', 'prove', 'volunteer'] (Score: 0.7487)
+Topic ID of most similar topic in corpus: 7
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['eat', 'food', 'girl', 'upset', 'solution', 'sweat', 'pregnant', 'couch', 'ignore', 'meet']
+Topic ID of query: 18
+
+most similar topic in corpus (Academic 2013):
+['eat', 'psychiatric', 'latent', 'pain', 'sex', 'report', 'suffer', 'classify', 'disability', 'high'] (Score: 0.6968)
+Topic ID of most similar topic in corpus: 52
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['health', 'leave', 'house', 'literally', 'anyway', 'summer', 'point', 'mostly', 'rest', 'door']
+Topic ID of query: 19
+
+most similar topic in corpus (Academic 2013):
+['assist', 'utility', 'patient', 'anxiety', 'care', 'phq', 'intervention', 'primary', 'high', 'risk'] (Score: 0.6330)
+Topic ID of most similar topic in corpus: 40
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['wonderful', 'recovery', 'human', 'peace', 'mechanism', 'revert', 'deserve', 'physiological', 'appearance', 'ship']
+Topic ID of query: 20
+
+most similar topic in corpus (Academic 2013):
+['social', 'internalize', 'anxiety', 'subject', 'skill', 'impairment', 'independent', 'symptom', 'interaction', 'co'] (Score: 0.6338)
+Topic ID of most similar topic in corpus: 1
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['proud', 'office', 'big', 'remind', 'mountain', 'worthless', 'step', 'accomplishment', 'lab', 'do']
+Topic ID of query: 21
+
+most similar topic in corpus (Academic 2013):
+['cost', 'disorder', 'anxiety', 'jpy', 'significant', 'rate', 'treatment', 'high', 'burden', 'behavior'] (Score: 0.5960)
+Topic ID of most similar topic in corpus: 22
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['car', 'girlfriend', 'last_night', 'trouble', 'real', 'odd', 'warped', 'distorted', 'circus', 'scatter']
+Topic ID of query: 22
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.5505)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['call', 'phone', 'answer', 'ask', 'number', 'manager', 'courage', 'position', 'stressful', 'interesting']
+Topic ID of query: 24
+
+most similar topic in corpus (Academic 2013):
+['attention', 'activation', 'image', 'face', 'hcs', 'negative', 'brain', 'pattern', 'cue', 'compare'] (Score: 0.6190)
+Topic ID of most similar topic in corpus: 27
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['scared', 'fun', 'eye', 'comfort', 'perfect', 'hell', 'pull', 'opportunity', 'shut', 'must']
+Topic ID of query: 27
+
+most similar topic in corpus (Academic 2013):
+['sad', 'fear', 'task', 'participant', 'group', 'response', 'control', 'avoidance', 'finding', 'anxiety'] (Score: 0.6402)
+Topic ID of most similar topic in corpus: 33
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['field', 'spell', 'strangeness', 'odd', 'scatter', 'demente', 'warped', 'appearance', 'bounce', 'battery']
+Topic ID of query: 28
+
+most similar topic in corpus (Academic 2013):
+['symptom', 'function', 'member', 'specific', 'different', 'mood', 'residual', 'disturbance', 'memory', 'somatic'] (Score: 0.5830)
+Topic ID of most similar topic in corpus: 48
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['go', 'be', 'get', 'happen', 'would', 'think', 'start', 'day', 'symptom', 'crazy']
+Topic ID of query: 29
+
+most similar topic in corpus (Academic 2013):
+['trend', 'hypnotic', 'treating', 'sleep', 'diary', 'daytime', 'med', 'elevate', 'prove', 'volunteer'] (Score: 0.6534)
+Topic ID of most similar topic in corpus: 7
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['trip', 'shop', 'warped', 'odd', 'scatter', 'demente', 'strangeness', 'battery', 'appearance', 'convey']
+Topic ID of query: 30
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6006)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['young', 'describe', 'son', 'teen', 'year_old', 'exact', 'appearance', 'dicke', 'warped', 'scatter']
+Topic ID of query: 31
+
+most similar topic in corpus (Academic 2013):
+['self', 'harm', 'thought', 'young', 'year', 'depression', 'developmental', 'adolescent', 'report', 'trajectory'] (Score: 0.6028)
+Topic ID of most similar topic in corpus: 19
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['drive', 'activity', 'ok', 'scatter', 'distorted', 'odd', 'circus', 'strangeness', 'waist', 'warped']
+Topic ID of query: 32
+
+most similar topic in corpus (Academic 2013):
+['attention', 'activation', 'image', 'face', 'hcs', 'negative', 'brain', 'pattern', 'cue', 'compare'] (Score: 0.6224)
+Topic ID of most similar topic in corpus: 27
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['wonder', 'heavy', 'shirt', 'jacket', 'battery', 'convey', 'warped', 'appearance', 'ship', 'dicke']
+Topic ID of query: 33
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.5995)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['class', 'college', 'pm', 'note', 'exam', 'depress', 'paper', 'anyways', 'lonely', 'grade']
+Topic ID of query: 34
+
+most similar topic in corpus (Academic 2013):
+['background', 'course', 'stressor', 'range', 'mild', 'class', 'symptom', 'use', 'user', 'obtain'] (Score: 0.6324)
+Topic ID of most similar topic in corpus: 53
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['train', 'due', 'warped', 'distorted', 'odd', 'scatter', 'circus', 'strangeness', 'appearance', 'waist']
+Topic ID of query: 37
+
+most similar topic in corpus (Academic 2013):
+['background', 'course', 'stressor', 'range', 'mild', 'class', 'symptom', 'use', 'user', 'obtain'] (Score: 0.5658)
+Topic ID of most similar topic in corpus: 53
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['hate', 'sick', 'med', 'horrible', 'fucking', 'function', 'stick', 'awful', 'computer', 'thinking']
+Topic ID of query: 38
+
+most similar topic in corpus (Academic 2013):
+['eat', 'psychiatric', 'latent', 'pain', 'sex', 'report', 'suffer', 'classify', 'disability', 'high'] (Score: 0.5483)
+Topic ID of most similar topic in corpus: 52
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['anymore', 'severe', 'relief', 'top', 'destroy', 'best_friend', 'love', 'can', 'let', 'absolutely']
+Topic ID of query: 40
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6055)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['song', 'demente', 'bounce', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted']
+Topic ID of query: 41
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.5793)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['job', 'work', 'store', 'lazy', 'buy', 'boss', 'new', 'must', 'mile', 'week']
+Topic ID of query: 43
+
+most similar topic in corpus (Academic 2013):
+['depressive', 'study', 'symptom', 'base', 'help', 'employee', 'company', 'work', 'course', 'care'] (Score: 0.5916)
+Topic ID of most similar topic in corpus: 37
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['rant', 'art', 'strangeness', 'appearance', 'odd', 'scatter', 'demente', 'battery', 'warped', 'convey']
+Topic ID of query: 45
+
+most similar topic in corpus (Academic 2013):
+['attention', 'activation', 'image', 'face', 'hcs', 'negative', 'brain', 'pattern', 'cue', 'compare'] (Score: 0.5859)
+Topic ID of most similar topic in corpus: 27
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['consult', 'distorted', 'circus', 'convey', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd']
+Topic ID of query: 46
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.5912)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['s', 'people', 'check', 'person', 'speak', 'conversation', 'stupid', 'there', 'online', 'pick']
+Topic ID of query: 47
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.5676)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['circus', 'waist', 'battery', 'appearance', 'warped', 'strangeness', 'scatter', 'odd', 'distorted', 'demente']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6108)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['date', 'develop', 'seek', 'particularly', 'paranoid', 'phase', 'particular', 'smoke', 'confident', 'poor']
+Topic ID of query: 50
+
+most similar topic in corpus (Academic 2013):
+['severity', 'ad', 'symptom', 'associated', 'appear', 'sleep', 'domain', 'examine', 'uniquely', 'relationship'] (Score: 0.6138)
+Topic ID of most similar topic in corpus: 30
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['sub', 'afterwards', 'evil', 'warped', 'distorted', 'odd', 'scatter', 'circus', 'trait', 'strangeness']
+Topic ID of query: 51
+
+most similar topic in corpus (Academic 2013):
+['sad', 'fear', 'task', 'participant', 'group', 'response', 'control', 'avoidance', 'finding', 'anxiety'] (Score: 0.6373)
+Topic ID of most similar topic in corpus: 33
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['hair', 'scatter', 'warped', 'distorted', 'odd', 'circus', 'strangeness', 'appearance', 'bounce', 'battery']
+Topic ID of query: 52
+
+most similar topic in corpus (Academic 2013):
+['attention', 'activation', 'image', 'face', 'hcs', 'negative', 'brain', 'pattern', 'cue', 'compare'] (Score: 0.6061)
+Topic ID of most similar topic in corpus: 27
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['act', 'adult', 'mad', 'student', 'possibly', 'regret', 'wife', 'shame', 'discuss', 'wall']
+Topic ID of query: 53
+
+most similar topic in corpus (Academic 2013):
+['self', 'harm', 'thought', 'young', 'year', 'depression', 'developmental', 'adolescent', 'report', 'trajectory'] (Score: 0.6133)
+Topic ID of most similar topic in corpus: 19
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['worry', 'nervous', 'lead', 'period', 'increase', 'breath', 'stomach', 'pound', 'deal', 'notice']
+Topic ID of query: 54
+
+most similar topic in corpus (Academic 2013):
+['cost', 'disorder', 'anxiety', 'jpy', 'significant', 'rate', 'treatment', 'high', 'burden', 'behavior'] (Score: 0.6400)
+Topic ID of most similar topic in corpus: 22
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['anxious', 'future', 'behavior', 'obsessive', 'compulsive', 'extremely', 'odd', 'convey', 'scatter', 'warped']
+Topic ID of query: 55
+
+most similar topic in corpus (Academic 2013):
+['sad', 'fear', 'task', 'participant', 'group', 'response', 'control', 'avoidance', 'finding', 'anxiety'] (Score: 0.6611)
+Topic ID of most similar topic in corpus: 33
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['drink', 'coffee', 'current', 'somewhere', 'mild', 'drinking', 'nauseous', 'relaxed', 'lock', 'black']
+Topic ID of query: 56
+
+most similar topic in corpus (Academic 2013):
+['group', 'alcohol', 'comparison', 'anxiety', 'co_morbid', 'alone', 'active', 'condition', 'drinking', 'treatment'] (Score: 0.6238)
+Topic ID of most similar topic in corpus: 11
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['notice', 'road', 'kinda', 'war', 'park', 'succeed', 'lesson', 'etc', 'rare', 'walk']
+Topic ID of query: 57
+
+most similar topic in corpus (Academic 2013):
+['attention', 'activation', 'image', 'face', 'hcs', 'negative', 'brain', 'pattern', 'cue', 'compare'] (Score: 0.5179)
+Topic ID of most similar topic in corpus: 27
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['somehow', 'yell', 'guy', 'fake', 'special', 'roof', 'say', 'talk', 'friend', 'tell']
+Topic ID of query: 58
+
+most similar topic in corpus (Academic 2013):
+['strongly', 'pool', 'behaviour', 'single', 'lack', 'previous', 'standardized', 'rct', 'people', 'routine'] (Score: 0.6078)
+Topic ID of most similar topic in corpus: 38
+Querying Reddit 2014 topics:
+
+
+
+======================
+
+
+Query: ['bed', 'hear', 'hopefully', 'side', 'pressure', 'here', 'music', 'voice', 'asleep', 'easily']
+Topic ID of query: 59
+
+most similar topic in corpus (Academic 2013):
+['treatment', 'support', 'effect', 'insomnia', 'condition', 'internet_delivered', 'subject', 'anxiety', 'measure', 'participant'] (Score: 0.5959)
+Topic ID of most similar topic in corpus: 28
