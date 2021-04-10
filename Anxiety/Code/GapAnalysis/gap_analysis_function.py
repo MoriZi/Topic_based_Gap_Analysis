@@ -101,28 +101,19 @@ def calulate_gap_year(significant):
     # calculate gap
     significant['year_diff_source2_minus_source1'] = significant['source2_year'] - significant['source1_year']
 
+    significant.to_csv("gapj2012.csv")
     return significant
-
-'''
-def preprocess(s,x):
-    df = pd.merge(s, x, on=['label','Document_No','Dominant_Topic','Topic_Perc_Contrib','Keywords','Text'], how='left')
-    df.to_csv("final.csv", mode="a", header=False, index=False)
-'''
 
 def merge_gap_with_topwords(significant, source1_df, source2_df, save_dir = "/home/smriti/Desktop/NLP/MITACS/Anxiety/Data/Results/", save_gap_name='similar_topic_w_feature_gap'):
 
     similar_topic_w_feature_gap = pd.merge(significant, source1_df[['label','Document_No','Dominant_Topic','Topic_Perc_Contrib','Keywords','Text']], left_on='source1_label', right_on='label')
     del(source1_df) #to save memory
     del(significant)
-    #PROBLEM IS HERE NOW
-    #similar_topic_w_feature_gap = pd.merge(similar_topic_w_feature_gap,source2_df[['label','Document_No','Dominant_Topic','Topic_Perc_Contrib','Keywords','Text' ]],left_on='source2_label', right_on='label',suffixes=('_source1', '_source2'))
-    #similar_topic_w_feature_gap = similar_topic_w_feature_gap.drop(columns=['label_source1', 'label_source2'])
     def preprocess(x):
         df2=pd.merge(similar_topic_w_feature_gap,x, how='left')
-        df2.to_csv("r2012.csv",mode="a",header=False,index=False)
-    reader = pd.read_csv("/home/smriti/Desktop/NLP/MITACS/Anxiety/Data/Results/Reddit/R2012.csv", chunksize=1000) # chunksize depends with you colsize
+        df2.to_csv("resj15_ga15.csv",mode="a",header=True,index=False)
+        print(df2.columns)
+    reader = pd.read_csv("/home/smriti/Desktop/NLP/MITACS/Anxiety/Data/Results/Reddit/2015/R2015.csv", chunksize=1000) # chunksize depends with you colsize
     [preprocess(r) for r in reader]
-    #print(similar_topic_w_feature_gap)
-    #similar_topic_w_feature_gap.to_csv(save_dir + save_gap_name + ".csv", index=False)
 
     return similar_topic_w_feature_gap

@@ -1,0 +1,110 @@
+
+
+======================
+
+
+Query: ['round', 'willing', 'connect', 'please', 'regard', 'lurk', 'solid', 'negatively', 'fearful', 'tourist']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2012):
+['fear', 'sad', 'memory', 'social', 'previous', 'replicate', 'role', 'may', 'effect', 'interaction'] (Score: 0.5939)
+Topic ID of most similar topic in corpus: 18
+
+
+======================
+
+
+Query: ['acceptance', 'cognitive_behavioral', 'key', 'forum', 'gut', 'recovery', 'mindfulness', 'relation', 'claim', 'available']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2012):
+['social', 'participant', 'positive', 'anxiety', 'take', 'cue', 'train', 'reduce', 'control', 'approach'] (Score: 0.6592)
+Topic ID of most similar topic in corpus: 5
+
+
+======================
+
+
+Query: ['anxiety', 'feel', 'go', 'be', 'get', 'have', 'help', 'really', 'start', 'would']
+Topic ID of query: 2
+
+most similar topic in corpus (Academic 2012):
+['anxiety', 'guide', 'find', 'face', 'scale', 'sample', 'generalize', 'largely', 'help', 'had'] (Score: 0.8268)
+Topic ID of most similar topic in corpus: 24
+
+
+======================
+
+
+Query: ['drive', 'cop', 'mile', 'gas', 'driving', 'unstable', 'crappy', 'highway', 'nicely', 'abandon']
+Topic ID of query: 3
+
+most similar topic in corpus (Academic 2012):
+['sleep', 'hybrid', 'monitoring', 'insomnia', 'acceptability', 'diary', 'end', 'ancillary', 'durability', 'isolation'] (Score: 0.5598)
+Topic ID of most similar topic in corpus: 1
+
+
+======================
+
+
+Query: ['be', 'people', 'want', 'know', 'think', 'say', 'friend', 'go', 'even', 'talk']
+Topic ID of query: 4
+
+most similar topic in corpus (Academic 2012):
+['fear', 'sad', 'memory', 'social', 'previous', 'replicate', 'role', 'may', 'effect', 'interaction'] (Score: 0.6763)
+Topic ID of most similar topic in corpus: 18
+
+
+======================
+
+
+Query: ['relax', 'silly', 'large', 'male', 'psychologist', 'rush', 'flight', 'routine', 'touch', 'adult']
+Topic ID of query: 5
+
+most similar topic in corpus (Academic 2012):
+['anxiety', 'guide', 'find', 'face', 'scale', 'sample', 'generalize', 'largely', 'help', 'had'] (Score: 0.6576)
+Topic ID of most similar topic in corpus: 24
+
+
+======================
+
+
+Query: ['breath', 'breathe', 'breathing', 'absolutely', 'around', 'leg', 'exist', 'sensation', 'major', 'middle']
+Topic ID of query: 6
+
+most similar topic in corpus (Academic 2012):
+['self', 'remission', 'depression', 'anxiety', 'implicit', 'explicit', 'psychosis', 'association', 'unipolar', 'symptom'] (Score: 0.5918)
+Topic ID of most similar topic in corpus: 11
+
+
+======================
+
+
+Query: ['create', 'goal', 'amount', 'coffee', 'quit', 'subreddit', 'comfortable', 'note', 'least', 'cbt']
+Topic ID of query: 7
+
+most similar topic in corpus (Academic 2012):
+['fear', 'sad', 'memory', 'social', 'previous', 'replicate', 'role', 'may', 'effect', 'interaction'] (Score: 0.6854)
+Topic ID of most similar topic in corpus: 18
+
+
+======================
+
+
+Query: ['sound', 'roll', 'chat', 'window', 'interested', 'scream', 'coyote', 'anyone_else', 'friendly', 'primal']
+Topic ID of query: 8
+
+most similar topic in corpus (Academic 2012):
+['symptom', 'patient', 'depression', 'somatic', 'fatigue', 'life', 'trial', 'show', 'internet', 'severe'] (Score: 0.5759)
+Topic ID of most similar topic in corpus: 37
+
+
+======================
+
+
+Query: ['visit', 'event', 'reward', 'roommate', 'coworker', 'luck', 'clear', 'cold', 'baby', 'piss']
+Topic ID of query: 9
+
+most similar topic in corpus (Academic 2012):
+['child', 'anxiety', 'disorder', 'parent', 'non', 'anxious', 'early', 'symptom', 'likely', 'information'] (Score: 0.6297)
+Topic ID of most similar topic in corpus: 36

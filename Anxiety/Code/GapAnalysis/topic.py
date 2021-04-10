@@ -51,7 +51,7 @@ class Topic:
         self.df = self.df.join(self.df['Keywords'].str.split(' ', 1, expand=True))
 
         #keep only the first part (most_freq_word)
-        self.df = self.df.drop(columns=[1])
+        #self.df = self.df.drop(columns=[1])
         self.df = self.df.rename(columns={0: "most_freq_word"})
 
         self.df['label'] = self.df['source'] + '_' + self.df['year'].map(str) + \

@@ -1,0 +1,130 @@
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['round', 'willing', 'connect', 'please', 'regard', 'lurk', 'solid', 'negatively', 'fearful', 'tourist']
+Topic ID of query: 0
+
+most similar topic in corpus (Academic 2014):
+['worry', 'deliver', 'telephone', 'clinician', 'old', 'nst', 'cbt', 'anxiety', 'therapy', 'examine'] (Score: 0.6204)
+Topic ID of most similar topic in corpus: 45
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['acceptance', 'cognitive_behavioral', 'key', 'forum', 'gut', 'recovery', 'mindfulness', 'relation', 'claim', 'available']
+Topic ID of query: 1
+
+most similar topic in corpus (Academic 2014):
+['psychotherapy', 'intent', 'cancer', 'beneficial', 'survivor', 'enhance', 'feeling', 'life', 'randomly_assigne', 'meaning'] (Score: 0.6125)
+Topic ID of most similar topic in corpus: 55
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['anxiety', 'feel', 'go', 'be', 'get', 'have', 'help', 'really', 'start', 'would']
+Topic ID of query: 2
+
+most similar topic in corpus (Academic 2014):
+['anxiety', 'prevalence', 'increase', 'physical', 'adjust', 'current', 'smoking', 'lower', 'symptom', 'study'] (Score: 0.7738)
+Topic ID of most similar topic in corpus: 33
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['drive', 'cop', 'mile', 'gas', 'driving', 'unstable', 'crappy', 'highway', 'nicely', 'abandon']
+Topic ID of query: 3
+
+most similar topic in corpus (Academic 2014):
+['impairment', 'life', 'quality', 'domain', 'environmental', 'physical', 'instrumental', 'modification', 'adult', 'activity'] (Score: 0.5676)
+Topic ID of most similar topic in corpus: 39
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['be', 'people', 'want', 'know', 'think', 'say', 'friend', 'go', 'even', 'talk']
+Topic ID of query: 4
+
+most similar topic in corpus (Academic 2014):
+['attention', 'task', 'mindfulness', 'focus', 'active', 'sustain', 'compulsion', 'center', 'att', 'cope'] (Score: 0.5943)
+Topic ID of most similar topic in corpus: 32
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['relax', 'silly', 'large', 'male', 'psychologist', 'rush', 'flight', 'routine', 'touch', 'adult']
+Topic ID of query: 5
+
+most similar topic in corpus (Academic 2014):
+['worry', 'deliver', 'telephone', 'clinician', 'old', 'nst', 'cbt', 'anxiety', 'therapy', 'examine'] (Score: 0.6673)
+Topic ID of most similar topic in corpus: 45
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['breath', 'breathe', 'breathing', 'absolutely', 'around', 'leg', 'exist', 'sensation', 'major', 'middle']
+Topic ID of query: 6
+
+most similar topic in corpus (Academic 2014):
+['psychotherapy', 'intent', 'cancer', 'beneficial', 'survivor', 'enhance', 'feeling', 'life', 'randomly_assigne', 'meaning'] (Score: 0.6321)
+Topic ID of most similar topic in corpus: 55
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['create', 'goal', 'amount', 'coffee', 'quit', 'subreddit', 'comfortable', 'note', 'least', 'cbt']
+Topic ID of query: 7
+
+most similar topic in corpus (Academic 2014):
+['social', 'change', 'sad', 'decrease', 'negative', 'anxiety', 'predict', 'emotion', 'increase', 'cbt'] (Score: 0.6261)
+Topic ID of most similar topic in corpus: 44
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['sound', 'roll', 'chat', 'window', 'interested', 'scream', 'coyote', 'anyone_else', 'friendly', 'primal']
+Topic ID of query: 8
+
+most similar topic in corpus (Academic 2014):
+['impairment', 'life', 'quality', 'domain', 'environmental', 'physical', 'instrumental', 'modification', 'adult', 'activity'] (Score: 0.6299)
+Topic ID of most similar topic in corpus: 39
+Querying Reddit 2012 topics:
+
+
+
+======================
+
+
+Query: ['visit', 'event', 'reward', 'roommate', 'coworker', 'luck', 'clear', 'cold', 'baby', 'piss']
+Topic ID of query: 9
+
+most similar topic in corpus (Academic 2014):
+['child', 'parent', 'family', 'maintain', 'program', 'diagnosis', 'childhood', 'year', 'improvement', 'significant'] (Score: 0.6091)
+Topic ID of most similar topic in corpus: 29
