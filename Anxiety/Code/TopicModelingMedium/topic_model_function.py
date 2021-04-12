@@ -207,7 +207,7 @@ def filter_least_frequent(dictionary, processed_docs, no_below_percent, keep_n):
 
     # filter out lest frequently used words based on count of frequency
     no_below = int(len(processed_docs) * no_below_percent)
-    dict_least_freq_filtered.filter_extremes(no_below = no_below, keep_n = keep_n)
+    dict_least_freq_filtered.filter_extremes(no_below = no_below, no_above=0.4, keep_n = keep_n)
 
     print('There are {} unique words in the dictionary, {} remain after filtering out lest frequent.'\
           .format(len(dictionary), len(dict_least_freq_filtered)))
