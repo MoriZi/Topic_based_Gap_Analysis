@@ -1,0 +1,11 @@
+,Year,Source,Topic_ID,Most_freq_words
+0,2018,Academic,0,"['treatment', 'group', 'patient', 'effect', 'therapy', 'compare', 'outcome', 'change', 'week', 'quality']"
+1,2018,Academic,1,"['intervention', 'cbt', 'base', 'research', 'effect', 'step', 'program', 'outcome', 'mindfulness', 'analysis']"
+2,2018,Academic,2,"['risk', 'depressive', 'associate', 'age', 'association', 'predict', 'year', 'sample', 'factor', 'sex']"
+3,2018,Academic,3,"['mental', 'health', 'patient', 'associate', 'high', 'association', 'life', 'datum', 'psychiatric', 'people']"
+4,2018,Academic,4,"['patient', 'gad', 'mdd', 'group', 'panic', 'right', 'compare', 'clinical', 'severity', 'comorbid']"
+5,2018,Academic,5,"['memory', 'response', 'increase', 'fear', 'amygdala', 'threat', 'effect', 'state', 'show', 'brain']"
+6,2018,Academic,6,"['cognitive', 'performance', 'face', 'adhd', 'bias', 'high', 'task', 'relaxation', 'attention', 'psychiatry']"
+7,2018,Academic,7,"['social', 'emotional', 'negative', 'relationship', 'self', 'cognitive', 'emotion', 'sad', 'relate', 'suggest']"
+8,2018,Academic,8,"['stress', 'child', 'maternal', 'ptsd', 'exposure', 'mother', 'woman', 'trauma', 'expose', 'behavior']"
+9,2018,Academic,9,"['score', 'level', 'scale', 'factor', 'measure', 'high', 'trait', 'personality', 'sample', 'low']"

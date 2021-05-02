@@ -1,0 +1,13 @@
+,Year,Source,Topic_ID,Most_freq_words
+0,2017,Medium,0,"['man', 'look', 'eye', 'hand', 'walk', 'leave', 'face', 'room', 'beautiful', 'light']"
+1,2017,Medium,1,"['thought', 'mind', 'change', 'find', 'self', 'learn', 'need', 'moment', 'become', 'live']"
+2,2017,Medium,2,"['sleep', 'morning', 'calm', 'minute', 'night', 'meditation', 'breath', 'hour', 'breathing', 'bed']"
+3,2017,Medium,3,"['write', 'book', 'read', 'post', 'share', 'story', 'also', 'blog', 'world', 'project']"
+4,2017,Medium,4,"['tell', 'try', 'love', 'never', 'see', 'bad', 'still', 'always', 'happen', 'friend']"
+5,2017,Medium,5,"['que', 'nao', 'para', 'com', 'por', 'como', 'mas', 'la', 'un', 'era']"
+6,2017,Medium,6,"['year', 'start', 'first', 'week', 'back', 'really', 'much', 'job', 'friend', 'new']"
+7,2017,Medium,7,"['year', 'child', 'school', 'parent', 'woman', 'family', 'kid', 'mother', 'mom', 'love']"
+8,2017,Medium,8,"['fear', 'social', 'person', 'situation', 'other', 'experience', 'speak', 'face', 'anxious', 'often']"
+9,2017,Medium,9,"['worry', 'food', 'god', 'eat', 'bet', 'stretch', 'meal', 'dish', 'cook', 'collect']"
+10,2017,Medium,10,"['depression', 'mental_health', 'student', 'issue', 'medication', 'therapy', 'suffer', 'problem', 'experience', 'support']"
+11,2017,Medium,11,"['stress', 'brain', 'cause', 'body', 'also', 'disorder', 'symptom', 'physical', 'level', 'experience']"

@@ -1,0 +1,11 @@
+,Year,Source,Topic_ID,Most_freq_words
+0,2019,Academic,0,"['health', 'mental', 'care', 'internalize', 'experience', 'service', 'support', 'people', 'need', 'live']"
+1,2019,Academic,1,"['child', 'adolescent', 'parent', 'behavior', 'age', 'youth', 'problem', 'school', 'report', 'parental']"
+2,2019,Academic,2,"['effect', 'state', 'level', 'pain', 'trait', 'performance', 'high', 'control', 'analysis', 'network']"
+3,2019,Academic,3,"['treatment', 'intervention', 'group', 'effect', 'outcome', 'patient', 'symptom', 'therapy', 'week', 'trial']"
+4,2019,Academic,4,"['patient', 'symptom', 'risk', 'factor', 'high', 'psychiatric', 'associate', 'depressive', 'clinical', 'score']"
+5,2019,Academic,5,"['self', 'measure', 'cognitive', 'research', 'include', 'model', 'scale', 'assess', 'well', 'present']"
+6,2019,Academic,6,"['stress', 'woman', 'maternal', 'attachment', 'mother', 'postpartum', 'acute', 'mindfulness', 'infant', 'addiction']"
+7,2019,Academic,7,"['psychological', 'distress', 'student', 'negative', 'ocd', 'score', 'high', 'resilience', 'fear', 'panic']"
+8,2019,Academic,8,"['social', 'symptom', 'associate', 'relationship', 'association', 'sleep', 'predict', 'risk', 'examine', 'level']"
+9,2019,Academic,9,"['brain', 'behavior', 'group', 'increase', 'pregnancy', 'response', 'task', 'emotional', 'stimulus', 'affective']"
