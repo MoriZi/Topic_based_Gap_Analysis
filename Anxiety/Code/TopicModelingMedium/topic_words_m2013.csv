@@ -1,0 +1,13 @@
+,Year,Source,Topic_ID,Most_freq_words
+0,2014,Medium,0,"['serve', 'cry', 'bed', 'sister', 'forget', 'scream', 'sob', 'ok', 'suppose', 'hit']"
+1,2014,Medium,1,"['mk', 'pay', 'medication', 'money', 'therapist', 'sometimes', 'buy', 'bed', 'therapy', 'sad']"
+2,2014,Medium,2,"['strength', 'fall', 'happiness', 'strong', 'amy', 'gym', 'mindfulness', 'physical', 'thinking', 'forward']"
+3,2014,Medium,3,"['project', 'photo', 'past', 'digital', 'game', 'thurston', 'schedule', 'baseball', 'social_media', 'detox']"
+4,2014,Medium,4,"['accept', 'partner', 'behaviour', 'relationship', 'choose', 'fence', 'death', 'difficult', 'meet', 'influence']"
+5,2014,Medium,5,"['result', 'feedback', 'test', 'assessment', 'cultural_competency', 'prepare', 'doctor', 'medication', 'review', 'diversity']"
+6,2014,Medium,6,"['ok', 'accept', 'recognize', 'strong', 'action', 'breathing', 'uncertainty', 'breathe', 'almost', 'process']"
+7,2014,Medium,7,"['dog', 'alive', 'worried', 'cancer', 'guy', 'somehow', 'worrying', 'tumor', 'brain', 'dear']"
+8,2014,Medium,8,"['age', 'difficult', 'client', 'elder', 'attempt', 'guilt', 'anger', 'scream', 'plan', 'value']"
+9,2014,Medium,9,"['worker', 'pilbara', 'rio', 'union', 'paris', 'travel', 'tony', 'airport', 'mining', 'natural']"
+10,2014,Medium,10,"['extrovert', 'god', 'introvert', 'fun', 'food', 'social', 'kid', 'perspective', 'eat', 'care']"
+11,2014,Medium,11,"['plane', 'basal_ganglia', 'flight', 'air', 'crash', 'fly', 'adhd', 'dopamine', 'include', 'case']"
