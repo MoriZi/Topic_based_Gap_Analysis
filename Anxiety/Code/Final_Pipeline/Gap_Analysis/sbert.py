@@ -6,12 +6,13 @@ embedder = SentenceTransformer('paraphrase-distilroberta-base-v1')
 
 jls=['topic_words_j2012.csv', 'topic_words_j2013.csv', 'topic_words_j2014.csv', 'topic_words_j2015.csv', 'topic_words_j2016.csv', 'topic_words_j2017.csv', 'topic_words_j2018.csv', 'topic_words_j2019.csv', 'topic_words_j2020.csv']
 rls=['topic_words_r2012.csv', 'topic_words_r2013.csv', 'topic_words_r2014.csv', 'topic_words_r2015.csv', 'topic_words_r2016.csv', 'topic_words_r2017.csv', 'topic_words_r2018.csv', 'topic_words_r2019.csv', 'topic_words_r2020.csv']
+mls=['topic_words_m2012.csv', 'topic_words_m2013.csv', 'topic_words_m2014.csv', 'topic_words_m2015.csv', 'topic_words_m2016.csv', 'topic_words_m2017.csv', 'topic_words_m2018.csv', 'topic_words_m2019.csv', 'topic_words_m2020.csv']
 
 for i in jls:
-    for j in rls:
+    for j in mls:
         #Loading all dataframes
-        fname1='/home/smriti/Smriti/MITACS/Anxiety/Data/CSV/Academic/'+i
-        fname2='/home/smriti/Smriti/MITACS/Anxiety/Data/CSV/Reddit/'+j
+        fname1='/Users/mahika.p/OneDrive - Cornell University/Anxiety/Topic_based_Gap_Analysis/Anxiety/Code/topic_words/'+i
+        fname2='/Users/mahika.p/OneDrive - Cornell University/Anxiety/Topic_based_Gap_Analysis/Anxiety/Code/TopicModelingMedium/'+j
         dfj=pd.read_csv(fname1)
         dfr12=pd.read_csv(fname2)
 
@@ -60,7 +61,7 @@ for i in jls:
         for k in range(n):
             df_res['corpus'][k]='Academic'
             df_res['corpus_year'][k]=dfj['Year'][0]
-            df_res['query_source'][k]='Reddit'
+            df_res['query_source'][k]='Medium'
             df_res['query_year'][k]=dfr12['Year'][0]
-        store_name="GA_j"+str(dfj['Year'][0])+"r"+str(dfr12['Year'][0])+".csv"
+        store_name="GA_j"+str(dfj['Year'][0])+"m"+str(dfr12['Year'][0])+".csv"
         df_res.to_csv(store_name)
