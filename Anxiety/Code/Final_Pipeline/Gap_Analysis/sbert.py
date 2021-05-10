@@ -4,14 +4,17 @@ from sentence_transformers import SentenceTransformer, util
 
 embedder = SentenceTransformer('paraphrase-distilroberta-base-v1')
 
-jls=['topic_words_j2012.csv', 'topic_words_j2013.csv', 'topic_words_j2014.csv', 'topic_words_j2015.csv', 'topic_words_j2016.csv', 'topic_words_j2017.csv', 'topic_words_j2018.csv', 'topic_words_j2019.csv', 'topic_words_j2020.csv']
 rls=['topic_words_r2012.csv', 'topic_words_r2013.csv', 'topic_words_r2014.csv', 'topic_words_r2015.csv', 'topic_words_r2016.csv', 'topic_words_r2017.csv', 'topic_words_r2018.csv', 'topic_words_r2019.csv', 'topic_words_r2020.csv']
+mls=['topic_words_m2012.csv', 'topic_words_m2013.csv', 'topic_words_m2014.csv', 'topic_words_m2015.csv', 'topic_words_m2016.csv', 'topic_words_m2017.csv', 'topic_words_m2018.csv', 'topic_words_m2019.csv', 'topic_words_m2020.csv']
+years=[2012,2013,2014,2015,2016,2017,2018,2019,2020]
 
-for i in jls:
-    for j in rls:
+for i in rls:
+    for j in mls:
         #Loading all dataframes
-        fname1='/home/smriti/Smriti/MITACS/Anxiety/Data/CSV/Academic/'+i
-        fname2='/home/smriti/Smriti/MITACS/Anxiety/Data/CSV/Reddit/'+j
+        w=mls.index(j)
+        print(j)
+        fname1='/home/smriti/Smriti/MITACS/Anxiety/Data/CSV/Reddit/'+i
+        fname2='/home/smriti/Smriti/MITACS/Anxiety/Data/CSV/Medium/'+j
         dfj=pd.read_csv(fname1)
         dfr12=pd.read_csv(fname2)
 
@@ -41,26 +44,27 @@ for i in jls:
             cos_scores = util.pytorch_cos_sim(query_embedding, corpus_embeddings)[0]
             top_results = torch.topk(cos_scores, k=top_k)
 
-            print("\n\n======================\n\n")
-            print("Query:", query)
-            print("Topic ID of query:", queries.index(query))
+            #print("\n\n======================\n\n")
+            #print("Query:", query)
+            #print("Topic ID of query:", queries.index(query))
             df_res['query_topicID'][m]=queries.index(query)
             df_res['query'][m]=query
-            print("\nmost similar topic in corpus:")
+            #print("\nmost similar topic in corpus:")
 
             for score, idx in zip(top_results[0], top_results[1]):
-                print(corpus[idx], "(Score: {:.4f})".format(score))
+                #print(corpus[idx], "(Score: {:.4f})".format(score))
                 df_res['best_match'][m]=corpus[idx]
                 df_res['best_match_score'][m]=score.item()
-                print("Topic ID of most similar topic in corpus:", c_ids[idx])
+                #print("Topic ID of most similar topic in corpus:", c_ids[idx])
                 df_res['best_match_topicID'][m]=c_ids[idx]
             m+=1
 
         n=len(df_res['query_topicID'])
         for k in range(n):
-            df_res['corpus'][k]='Academic'
+            df_res['corpus'][k]='Reddit'
             df_res['corpus_year'][k]=dfj['Year'][0]
-            df_res['query_source'][k]='Reddit'
-            df_res['query_year'][k]=dfr12['Year'][0]
-        store_name="GA_j"+str(dfj['Year'][0])+"r"+str(dfr12['Year'][0])+".csv"
+            df_res['query_source'][k]='Medium'
+            df_res['query_year'][k]=years[w]
+        store_name="GA_r"+str(dfj['Year'][0])+"m"+str(years[w])+".csv"
+        print(store_name)
         df_res.to_csv(store_name)
